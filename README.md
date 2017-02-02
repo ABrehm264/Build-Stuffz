@@ -1,4 +1,5 @@
-[# Build-Stuffz](https://abrehm264.github.io/Build-Stuffz/)
+# Build-Stuffz
+[Link to Github pages](https://abrehm264.github.io/Build-Stuffz/)
 
 ## TC command line params for MSBuild
 ```bash
